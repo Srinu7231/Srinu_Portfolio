@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Srinu_Portfolio/static/css/main.86a858e8.css",
+    "main.js": "/Srinu_Portfolio/static/js/main.7585c16a.js",
+    "static/media/placepicker1.png": "/Srinu_Portfolio/static/media/placepicker1.d3fde91df2fd17f0671f.png",
+    "static/media/contactImage.gif": "/Srinu_Portfolio/static/media/contactImage.aad45b86c4d8e00ad19c.gif",
+    "static/media/foodorder1.png": "/Srinu_Portfolio/static/media/foodorder1.31d409c62db2ef921e85.png",
+    "static/media/placesPicker.png": "/Srinu_Portfolio/static/media/placesPicker.e56303cd297ac614049b.png",
+    "static/media/foodOrder2.png": "/Srinu_Portfolio/static/media/foodOrder2.7587950f4d877ba216b2.png",
+    "static/media/socialMedia.png": "/Srinu_Portfolio/static/media/socialMedia.5eeda4b8158022615a79.png",
+    "static/media/galleryApp.png": "/Srinu_Portfolio/static/media/galleryApp.564f13c9cf274218f558.png",
+    "static/media/investmentCal.png": "/Srinu_Portfolio/static/media/investmentCal.1781294c828bdf9bdfb4.png",
+    "static/media/banner-bg.png": "/Srinu_Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/ecommerece.png": "/Srinu_Portfolio/static/media/ecommerece.427212dc9f4a8adc252d.png",
+    "static/media/BannerImg.svg": "/Srinu_Portfolio/static/media/BannerImg.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/expensestracker.png": "/Srinu_Portfolio/static/media/expensestracker.fa298cef5765f86da5f3.png",
+    "static/media/quiz.png": "/Srinu_Portfolio/static/media/quiz.3ab1b59380257207befb.png",
+    "static/media/wareHouseManageMent.jpeg": "/Srinu_Portfolio/static/media/wareHouseManageMent.22e94dbeaa2ebfefb6b0.jpeg",
+    "static/media/naukriImg.png": "/Srinu_Portfolio/static/media/naukriImg.4a7d851047ffe7770aa9.png",
+    "static/media/coder.jpg": "/Srinu_Portfolio/static/media/coder.268510ccc82f707e99f7.jpg",
+    "index.html": "/Srinu_Portfolio/index.html",
+    "main.86a858e8.css.map": "/Srinu_Portfolio/static/css/main.86a858e8.css.map",
+    "main.7585c16a.js.map": "/Srinu_Portfolio/static/js/main.7585c16a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a858e8.css",
+    "static/js/main.7585c16a.js"
+  ]
+}

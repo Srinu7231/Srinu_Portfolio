@@ -46,3 +46,16 @@
 
 }
 
+@media (max-width: 768px) {
+  .logo {
+    max-width: 650px; /* Slightly bigger for small devices */
+  }
+}
+
+
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between; /* Ensure even spacing */
+  align-items: center;
+}

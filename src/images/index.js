@@ -15,8 +15,7 @@ import contactImage from "./contactImage.gif"
 import naukriImg from "./naukriImg.png"
 import ecommerece from "./ecommerece.png"
 
-export {
-    coder,
+export {coder,
     BannerImg,
     foodorder1,
     foodOrder2,

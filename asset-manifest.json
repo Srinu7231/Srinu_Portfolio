@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Srinu_Portfolio/static/css/main.6492eeeb.css",
-    "main.js": "/Srinu_Portfolio/static/js/main.3cdd01f2.js",
+    "main.css": "/Srinu_Portfolio/static/css/main.4a4f8eb0.css",
+    "main.js": "/Srinu_Portfolio/static/js/main.f8eb5a8a.js",
     "static/media/placepicker1.png": "/Srinu_Portfolio/static/media/placepicker1.d3fde91df2fd17f0671f.png",
     "static/media/contactImage.gif": "/Srinu_Portfolio/static/media/contactImage.aad45b86c4d8e00ad19c.gif",
     "static/media/foodorder1.png": "/Srinu_Portfolio/static/media/foodorder1.31d409c62db2ef921e85.png",
@@ -19,11 +19,11 @@
     "static/media/naukriImg.png": "/Srinu_Portfolio/static/media/naukriImg.4a7d851047ffe7770aa9.png",
     "static/media/coder.jpg": "/Srinu_Portfolio/static/media/coder.268510ccc82f707e99f7.jpg",
     "index.html": "/Srinu_Portfolio/index.html",
-    "main.6492eeeb.css.map": "/Srinu_Portfolio/static/css/main.6492eeeb.css.map",
-    "main.3cdd01f2.js.map": "/Srinu_Portfolio/static/js/main.3cdd01f2.js.map"
+    "main.4a4f8eb0.css.map": "/Srinu_Portfolio/static/css/main.4a4f8eb0.css.map",
+    "main.f8eb5a8a.js.map": "/Srinu_Portfolio/static/js/main.f8eb5a8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6492eeeb.css",
-    "static/js/main.3cdd01f2.js"
+    "static/css/main.4a4f8eb0.css",
+    "static/js/main.f8eb5a8a.js"
   ]
 }

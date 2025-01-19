@@ -7,6 +7,7 @@ import {
   SiNextdotjs,
   SiRedux,
   SiMongodb,
+  SiLeetcode,
 } from "react-icons/si";
 import {
   FaFacebookF,
@@ -41,7 +42,7 @@ export default function Banner() {
   <div className="w-full md:w-1/2 flex flex-col gap-10 md:gap-20">
     <div className="flex flex-col gap-5">
       <h4 className="text-base md:text-lg font-normal mt-10 text-center md:text-left">
-        WELCOME TO MY WORLD 😊😉😅
+        WELCOME TO MY WORLD
       </h4>
       <h1 className="text-4xl md:text-6xl font-bold text-white text-center md:text-left">
         Hi, I'm
@@ -98,6 +99,14 @@ export default function Banner() {
               <IoLogoInstagram />
             </a>
           </span>
+          <span className="bannerIcon">
+          <a
+              href="https://leetcode.com/u/srinu_231/"
+              target="_blank"
+            >
+          <SiLeetcode />
+            </a>
+          </span>
         </div>
       </div>
       <div>
@@ -108,7 +117,7 @@ export default function Banner() {
           <span className="bannerIcon">
             <FaReact />
           </span>
-          <span className="bannerIcon flex items-center gap-2">
+          <span className="bannerIcon flex items-center gap-1">
             <TbBrandReactNative />
             <IoLogoAndroid />
             <GrApple />

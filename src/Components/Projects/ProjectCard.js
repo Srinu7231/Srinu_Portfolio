@@ -9,7 +9,7 @@ hover:from-gray-900 hover:gray-900 transition-colors duration-1000"
     >
       <div className="w-full overflow-hidden rounded-lg">
         <img
-          className="w-full h-60 object-cover group-hover:scale-110 duration-300 cursor-pointer"
+          className="w-full h-60 object-cover group-hover:scale-110 duration-300"
           src={src}
           alt="src"
         />
@@ -18,7 +18,7 @@ hover:from-gray-900 hover:gray-900 transition-colors duration-1000"
         <div className="flex items-center justify-between">
           <h3 className="text-base uppercase text-designColor font-normal">{title}</h3>
           <div>
-            <span className="text-1g w-10 h-10 rounded-full justify-center items-center text-gray-400 bg-black inline-flex hover: text-designColor duration-500 cursor-pointer">
+            <span className="text-lg w-10 h-10 rounded-full justify-center items-center text-gray-400 bg-black inline-flex hover: text-designColor duration-500 cursor-pointer">
               <a href={`${link}`} target="_blank"><BsGithub /></a>
             </span>
             {/* <span
@@ -28,7 +28,7 @@ hover:from-gray-900 hover:gray-900 transition-colors duration-1000"
           </span> */}
           </div>
         </div>
-        <p className="test-sm tracking-wide mt-3 hover:test-gray-100  duration-300">{des}</p>
+        <p className="text-sm tracking-wide mt-3 hover:test-gray-100  duration-300">{des}</p>
       </div>
     </div>
   );

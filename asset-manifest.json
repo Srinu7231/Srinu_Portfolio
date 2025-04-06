@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Srinu_Portfolio/static/css/main.4a4f8eb0.css",
-    "main.js": "/Srinu_Portfolio/static/js/main.f8eb5a8a.js",
+    "main.css": "/Srinu_Portfolio/static/css/main.bb30034a.css",
+    "main.js": "/Srinu_Portfolio/static/js/main.544eebbc.js",
     "static/media/placepicker1.png": "/Srinu_Portfolio/static/media/placepicker1.d3fde91df2fd17f0671f.png",
     "static/media/contactImage.gif": "/Srinu_Portfolio/static/media/contactImage.aad45b86c4d8e00ad19c.gif",
     "static/media/foodorder1.png": "/Srinu_Portfolio/static/media/foodorder1.31d409c62db2ef921e85.png",
@@ -17,13 +17,14 @@
     "static/media/quiz.png": "/Srinu_Portfolio/static/media/quiz.3ab1b59380257207befb.png",
     "static/media/wareHouseManageMent.jpeg": "/Srinu_Portfolio/static/media/wareHouseManageMent.22e94dbeaa2ebfefb6b0.jpeg",
     "static/media/naukriImg.png": "/Srinu_Portfolio/static/media/naukriImg.4a7d851047ffe7770aa9.png",
+    "static/media/ai_assistant.webp": "/Srinu_Portfolio/static/media/ai_assistant.bb4c5f4c5c11c26b0505.webp",
     "static/media/coder.jpg": "/Srinu_Portfolio/static/media/coder.268510ccc82f707e99f7.jpg",
     "index.html": "/Srinu_Portfolio/index.html",
-    "main.4a4f8eb0.css.map": "/Srinu_Portfolio/static/css/main.4a4f8eb0.css.map",
-    "main.f8eb5a8a.js.map": "/Srinu_Portfolio/static/js/main.f8eb5a8a.js.map"
+    "main.bb30034a.css.map": "/Srinu_Portfolio/static/css/main.bb30034a.css.map",
+    "main.544eebbc.js.map": "/Srinu_Portfolio/static/js/main.544eebbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a4f8eb0.css",
-    "static/js/main.f8eb5a8a.js"
+    "static/css/main.bb30034a.css",
+    "static/js/main.544eebbc.js"
   ]
 }

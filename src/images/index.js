@@ -14,6 +14,7 @@ import wareHouseManageMent from "./wareHouseManageMent.jpeg"
 import contactImage from "./contactImage.gif"
 import naukriImg from "./naukriImg.png"
 import ecommerece from "./ecommerece.png"
+import ai_assistant from "./ai_assistant.webp"
 
 export {coder,
     BannerImg,
@@ -29,5 +30,6 @@ export {coder,
     wareHouseManageMent,
     contactImage,
     naukriImg,
-    ecommerece
+    ecommerece,
+    ai_assistant
 };

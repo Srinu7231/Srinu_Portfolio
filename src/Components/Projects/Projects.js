@@ -1,7 +1,8 @@
 import React from 'react'
 import Title from '../Layouts/Title'
 import ProjectCard from './ProjectCard'
-import { ecommerece, expensestracker, foodorder1, galleryApp, placePicker, quiz, socialMedia, wareHouseManageMent } from '../../images'
+import { ecommerece, expensestracker, foodorder1, galleryApp, placePicker, quiz, socialMedia, wareHouseManageMent,ai_assistant } from '../../images'
+import ToolTip from '../Layouts/ToolTip'
 
 export default function Projects() {
   return (
@@ -40,24 +41,28 @@ export default function Projects() {
         src={placePicker}
       />
       <ProjectCard
-        title="FOOD ORDER APPLICATION"
-        des="A user-friendly food ordering app with seamless navigation, restaurant listings, real-time order tracking, and payment integration. Built to deliver a smooth and efficient user experience for online food delivery."
-        src={foodorder1}
+        title= "AI Voice Assistant"
+        des= "A Python-based voice assistant integrated with OpenAI’s API. It supports natural language conversations, tells jokes or stories, provides weather updates, performs online searches, and sends emails through voice commands. Built with speech recognition and text-to-speech for interactive voice control. More features like WhatsApp calling, job applications, and bookings are planned."
+        src={ai_assistant}
+        link='https://github.com/Srinu7231/AI-Voice-Assistant-Automation-Chatbot-Integration-'
       />
       <ProjectCard
         title="GALLERY MOBILE APPLICATION"
         des="A mobile application designed to organize, view, and manage images with an attractive and minimalist UI. Built with React Native, it supports album creation, image sharing, and a responsive layout."
         src={galleryApp}
+        msg='Internal Project'
       />
       <ProjectCard
         title="WAREHOUSE MANAGEMENT MOBILE APPLICATION"
         des="An enterprise-grade application to streamline warehouse operations. Features include inventory management, order tracking, and real-time data visualization, developed with React Native to enhance operational efficiency."
         src={wareHouseManageMent}
+        msg='Internal Project'
       />
       <ProjectCard
         title="QUIZ MOBILE APPLICATION"
         des="An interactive quiz application that allows users to participate in multiple-choice quizzes with real-time score tracking. Designed with React Native to provide an engaging and visually appealing experience for learners."
         src={quiz}
+        link='https://github.com/Srinu7231/Quiz-App'
       />
     </div>
   </section>

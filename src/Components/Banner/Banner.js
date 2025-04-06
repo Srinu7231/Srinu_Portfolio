@@ -20,6 +20,7 @@ import { TbBrandReactNative } from "react-icons/tb";
 import { IoLogoAndroid, IoLogoInstagram } from "react-icons/io";
 import { GrApple } from "react-icons/gr";
 import { BannerImg, naukriImg } from "../../images";
+import ToolTip from "../Layouts/ToolTip";
 
 export default function Banner() {
   const [text] = useTypewriter({
@@ -114,24 +115,39 @@ export default function Banner() {
           BEST SKILL ON
         </h2>
         <div className="flex justify-center md:justify-start gap-4">
-          <span className="bannerIcon">
-            <FaReact />
+          <span className="tool-tip-container">
+            <span className="bannerIcon">
+              <FaReact />
+            </span>
+            <ToolTip msg="React" style="transform translate-y-[-100px]"/>
           </span>
-          <span className="bannerIcon flex items-center gap-1">
-            <TbBrandReactNative />
-            <IoLogoAndroid />
-            <GrApple />
+          <span className="tool-tip-container">
+            <span className="bannerIcon flex items-center gap-1">
+              {/* <TbBrandReactNative /> */}
+              <IoLogoAndroid />
+              {/* <GrApple /> */}
+            <ToolTip msg="React Native"/>
+            </span>
           </span>
+          <span className="tool-tip-container">
           <span className="bannerIcon">
             <SiRedux />
+            <ToolTip msg="Redux"/>
           </span>
+          </span>
+          <span className="tool-tip-container">
           <span className="bannerIcon">
             <FaNodeJs />
+            <ToolTip msg="Node JS"/>
+          </span>
           </span>
         </div>
         <div className="flex justify-center md:justify-start mt-4">
+        <span className="tool-tip-container">
           <span className="bannerIcon">
             <SiMongodb />
+          </span>
+          <ToolTip msg="MongoDB"/>
           </span>
         </div>
       </div>
@@ -143,10 +159,12 @@ export default function Banner() {
     {/* Background Code */}
     <div className="absolute top-0 left-0 w-full h-full z-0 hidden md:block">
       <p className="text-white text-opacity-50 font-mono animate-pulse mt-10">
-      {"const inspire = () => { console.log('Coding is not just about writing code, it's about solving problems.');" };
+      {"const inspire = () => { \nreturn Each function is a thought, each bug a battle, each fix a step closer to perfection.'\n}" };
+      </p>
+      <p className="text-white text-opacity-50 font-mono animate-pulse mt-10">
+      {"const inspire = () =>  return 'In every bug hides a lesson. In every fix, a story.'}" };
       </p>
     </div>
-
     {/* Image with Transparency and Bounce */}
     <img
       className="w-[300px] h-[280px] md:w-[500px] md:h-[480px] z-10 opacity-80 animate-slowBounce"

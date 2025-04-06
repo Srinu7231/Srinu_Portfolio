@@ -7,7 +7,7 @@ export default function Education() {
         <div>
           <div className="py-12 font-titleFont">
             <p className="text-sm text-designColor tracking-[4px]">
-              2018 - 2022
+              2015 - 2022
             </p>
             <h2 className="text-4xl font-bold">Education</h2>
           </div>

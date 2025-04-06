@@ -28,17 +28,21 @@ export const navLinksdata = [
 ];
 
 export const achievementsList = [
-  "Led the implementation of Zebra programming language to enable efficient label and document printing, achieving a 15% reduction in app size and enhancing operational efficiency for high-volume printing tasks.",
-  "Designed and implemented scalable web and mobile applications using React.js, React Native and Node.js, addressing performance challenges in warehouse management systems and driving a 20% improvement in operational efficiency.",
-  "Optimised application workflows and data retrieval processes, enhancing speed and performance by 50% through targeted improvements in architecture and processing techniques.",
-  "Developed a backend service for PDF to image conversion, ensuring seamless integration and compatibility for applications, which enhanced functionality and user experience in PDF viewing.",
-  "Integrated an in-app camera for seamless photo management, simplifying workflows for capturing and organising photos, resulting in a smoother user experience.",
-  "Implemented Google Places Autocomplete to streamline address entry processes, increasing user efficiency and accuracy while improving overall user satisfaction.",
-  "Managed user authentication and authorization processes, implementing secure access mechanisms that bolstered platform security and ensured reliable protection of features and functionalities.",
-  "Orchestrated Firebase database management, including data modelling and structure optimization, resulting in improved performance and faster data retrieval, enhancing application responsiveness.",
-  "Designed and developed REST APIs for mobile applications, ensuring secure and efficient data exchange.",
-  "Orchestrated demos with product managers and back-end developers, enhancing application functionality and user experience.",
-  "Enhanced user engagement and retention by integrating push notifications using the Firebase Messaging package in React Native applications, ensuring timely and personalized updates that improved overall user experience.",
-  "Integrated multilingual support into the React Native application using the i18n library, allowing users to effortlessly switch between multiple languages. This enhancement boosted the app's accessibility, broadened its global reach, and significantly improved user satisfaction, driving higher adoption rates."
+  "Designed and built the Smart Catalog system for hospital and pharmacy warehouse logistics.",
+  "System now managed by a team of 7, handling thousands of inventory transactions daily.",
+  "Automated inventory workflows, reducing manual data entry by 60% and improving order processing by 35%.",
+  "Enabled digital pharmaceutical inventory tracking, reducing discrepancies by 25%.",
+  "Implemented Zebra programming for label/document printing, cutting app size by 15% and speeding up processing by 40%.",
+  "Developed scalable web/mobile apps using React.js, React Native, and Node.js for a global logistics leader.",
+  "Improved operational efficiency by 20% across 100+ warehouses worldwide.",
+  "Optimized workflows and data retrieval, reducing processing time by 50% for 3,000+ daily users.",
+  "Integrated in-app camera for warehouse photo workflows, reducing manual errors by 30%.",
+  "Used Google Places Autocomplete to cut incorrect addresses by 60% and boost delivery accuracy.",
+  "Managed authentication/authorization systems for tens of thousands of users in logistics and healthcare.",
+  "Optimized Firebase database structures, reducing query times by 40% and enabling real-time inventory tracking.",
+  "Developed REST APIs handling millions of calls monthly for warehouse and asset tracking.",
+  "Led product demos and collaborated cross-functionally to align features with 40% logistics expansion.",
+  "Boosted engagement by adding Firebase push notifications, increasing user actions by 10,000+ daily.",
+  "Integrated Firebase Crashlytics & Sentry to resolve crashes 30% faster and reduce downtime.",
+  "Added multilingual (i18n) support in React Native apps, expanding to 20+ countries and increasing adoption by 15%."
 ];
-
